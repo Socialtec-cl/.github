@@ -81,16 +81,7 @@ Acá se alojan nuestros **proyectos de código abierto**.
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/socialtec.cl)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/socialtec-cl/)
-  [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/socialtec-cl)
   
 </div>
 
 ---
-
-<div align="center">
-  
-  **Construyendo el futuro de las ciencias sociales y humanidades** 🚀
-  
-  [Visita nuestro sitio web](https://socialtec.cl) • [Explora nuestros proyectos](https://github.com/Socialtec-cl)
-  
-</div>
