@@ -7,6 +7,11 @@
   
   [![Website](https://img.shields.io/badge/Website-socialtec.cl-blue)](https://socialtec.cl)
   [![GitHub](https://img.shields.io/badge/GitHub-Socialtec--cl-181717?logo=github)](https://github.com/Socialtec-cl)
+  [![GitLab](https://img.shields.io/badge/GitLab-Socialtec--cl-FCA121?logo=gitlab)](https://gitlab.com/socialtec-cl)
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-@socialtec.cl-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/socialtec.cl)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Socialtec--cl-0A66C2?logo=linkedin)](https://www.linkedin.com/company/socialtec-cl/)
+  [![Email](https://img.shields.io/badge/Email-contacto@socialtec.cl-D14836?logo=gmail&logoColor=white)](mailto:contacto@socialtec.cl)
   
 </div>
 
@@ -61,6 +66,24 @@ Acá se alojan nuestros **proyectos de código abierto**.
 - 🔀 **Pull Request**: Realiza una pull request si quieres hacer un cambio o modificación
 - 🐛 **Issues**: Si identificas un problema, genera un issue e intentaremos resolverlo
 - 👨‍💻 **Colaboración**: Si quieres participar más a fondo en un repositorio, ¡escríbenos!
+
+---
+
+## 📬 Contáctanos
+
+¿Tienes preguntas o quieres colaborar con nosotros? ¡Nos encantaría saber de ti!
+
+<div align="center">
+  
+  **Email:** [contacto@socialtec.cl](mailto:contacto@socialtec.cl)
+  
+  **Síguenos en redes sociales:**
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/socialtec.cl)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/socialtec-cl/)
+  [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/socialtec-cl)
+  
+</div>
 
 ---
 
