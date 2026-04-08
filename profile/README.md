@@ -3,7 +3,7 @@
   
   # Socialtec
   
-  ### Ciencias Sociales Computacionales y Humanidades Digitales en Chile
+  ### Ciencias Sociales Computacionales en Chile
   
   [![Website](https://img.shields.io/badge/Website-socialtec.cl-blue)](https://socialtec.cl)
   [![GitHub](https://img.shields.io/badge/GitHub-Socialtec--cl-181717?logo=github)](https://github.com/Socialtec-cl)
@@ -27,12 +27,10 @@ Actualmente, gran parte de la cultura y de las interacciones ocurren a través d
 
 ### Nuestra Misión
 
-En este contexto surge **Socialtec**. En Chile, y especialmente en los departamentos y facultades de ciencias sociales y humanidades, hemos percibido una carencia de redes y grupos para colaborar, compartir información, generar proyectos e investigaciones y desarrollar capacidades computacionales.
+En este contexto surge **Socialtec**. En Chile, y especialmente en los departamentos y facultades de ciencias sociales, hemos percibido una carencia de redes y grupos para colaborar, compartir información, generar proyectos e investigaciones y desarrollar capacidades computacionales.
 
 A raíz de ello, Socialtec nace como una organización de:
 - 👥 Científicos sociales
-- 📚 Humanistas
-- 🗣️ Lingüistas
 - 📊 Científicos de datos
 - 💻 Científicos computacionales
 
